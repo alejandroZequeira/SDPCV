@@ -1,1 +1,1 @@
-from analizer import AnalizerYolo
+from analizador.analizer import AnalizerYolo

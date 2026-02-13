@@ -14,6 +14,7 @@ dependencies = [
     "python-multipart (>=0.0.22,<0.0.23)",
     "opencv-python (>=4.13.0.92,<5.0.0.0)",
     "ultralytics (>=8.4.14,<9.0.0)"
+    "websockets (>=16.0)"
 ]
 
 
